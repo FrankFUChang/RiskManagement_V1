@@ -51,7 +51,7 @@
         }
       },
       "db": {
-        "kind": "hana-cloud"
+        "kind": "sql"
       },
       "xsuaa": {
         "kind": "xsuaa"
